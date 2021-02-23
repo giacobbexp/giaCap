@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/giacap/static/js/runtime~main.05949324.js"
   },
   {
-    "revision": "c2703714a3688985ac74b63e00444fb1",
+    "revision": "8032c2c580b831b5fe31db2b3d4bd519",
     "url": "/giacap/index.html"
   }
 ];
