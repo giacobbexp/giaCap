@@ -1,15 +1,15 @@
 {
   "main.css": "/giacap/static/css/main.c1faa638.chunk.css",
-  "main.js": "/giacap/static/js/main.b527776c.chunk.js",
-  "main.js.map": "/giacap/static/js/main.b527776c.chunk.js.map",
+  "main.js": "/giacap/static/js/main.08dae91d.chunk.js",
+  "main.js.map": "/giacap/static/js/main.08dae91d.chunk.js.map",
   "static/js/1.558fde81.chunk.js": "/giacap/static/js/1.558fde81.chunk.js",
   "static/js/1.558fde81.chunk.js.map": "/giacap/static/js/1.558fde81.chunk.js.map",
-  "static/js/2.30f912be.chunk.js": "/giacap/static/js/2.30f912be.chunk.js",
-  "static/js/2.30f912be.chunk.js.map": "/giacap/static/js/2.30f912be.chunk.js.map",
+  "static/js/2.0ac52433.chunk.js": "/giacap/static/js/2.0ac52433.chunk.js",
+  "static/js/2.0ac52433.chunk.js.map": "/giacap/static/js/2.0ac52433.chunk.js.map",
   "runtime~main.js": "/giacap/static/js/runtime~main.b9cfee0b.js",
   "runtime~main.js.map": "/giacap/static/js/runtime~main.b9cfee0b.js.map",
   "static/css/main.c1faa638.chunk.css.map": "/giacap/static/css/main.c1faa638.chunk.css.map",
   "index.html": "/giacap/index.html",
-  "precache-manifest.9f3aa82a7d884313e0e6bc4a20d09a2f.js": "/giacap/precache-manifest.9f3aa82a7d884313e0e6bc4a20d09a2f.js",
+  "precache-manifest.493e5128cc4a8c26a8fea0429560c514.js": "/giacap/precache-manifest.493e5128cc4a8c26a8fea0429560c514.js",
   "service-worker.js": "/giacap/service-worker.js"
 }
