@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e6702cd100352f395b1f",
+    "revision": "cfb5ae3dda26967d44a7",
     "url": "/giacap/static/css/main.c1faa638.chunk.css"
   },
   {
-    "revision": "e6702cd100352f395b1f",
-    "url": "/giacap/static/js/main.e6702cd1.chunk.js"
+    "revision": "cfb5ae3dda26967d44a7",
+    "url": "/giacap/static/js/main.cfb5ae3d.chunk.js"
   },
   {
     "revision": "558fde8133949f25c644",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/giacap/static/js/runtime~main.b9cfee0b.js"
   },
   {
-    "revision": "543edeb8c76dcd3248f97f9c6f8691ab",
+    "revision": "81496e11437e38e44cd2d8ce3d8c07de",
     "url": "/giacap/index.html"
   }
 ];

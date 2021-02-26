@@ -1,7 +1,7 @@
 {
   "main.css": "/giacap/static/css/main.c1faa638.chunk.css",
-  "main.js": "/giacap/static/js/main.e6702cd1.chunk.js",
-  "main.js.map": "/giacap/static/js/main.e6702cd1.chunk.js.map",
+  "main.js": "/giacap/static/js/main.cfb5ae3d.chunk.js",
+  "main.js.map": "/giacap/static/js/main.cfb5ae3d.chunk.js.map",
   "static/js/1.558fde81.chunk.js": "/giacap/static/js/1.558fde81.chunk.js",
   "static/js/1.558fde81.chunk.js.map": "/giacap/static/js/1.558fde81.chunk.js.map",
   "static/js/2.30f912be.chunk.js": "/giacap/static/js/2.30f912be.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/giacap/static/js/runtime~main.b9cfee0b.js.map",
   "static/css/main.c1faa638.chunk.css.map": "/giacap/static/css/main.c1faa638.chunk.css.map",
   "index.html": "/giacap/index.html",
-  "precache-manifest.f88a2b006845003b942669f36b043ef1.js": "/giacap/precache-manifest.f88a2b006845003b942669f36b043ef1.js",
+  "precache-manifest.bdacbce87583ce1439c5edaee9583da5.js": "/giacap/precache-manifest.bdacbce87583ce1439c5edaee9583da5.js",
   "service-worker.js": "/giacap/service-worker.js"
 }
